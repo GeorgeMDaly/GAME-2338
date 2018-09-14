@@ -6,7 +6,7 @@
 
 # Summary
 
-  ### this game is about...
+  ### Super Trench Attack is a isometric shooter with rpg elements set in world war 2.
     
 # Final Thoughts
 
