@@ -1,1 +1,1 @@
-# adventure
+# adventure game: Super Trench Attack!
